@@ -1,5 +1,5 @@
 export interface Admin {
-    id: number;
+    id: string;
     nombre:string;
     contrasena:string;
 }
